@@ -1,6 +1,6 @@
 # EITC-reform
 
-This repository contains the algorithm for the policy simulation of [EITC reform publication](https://ifstudies.org/blog/reforming-the-eitc-to-reduce-single-parenthood-and-ease-work-family-balance): Reforming the EITC to Reduce Single Parenthood and Ease Work-Family Balance
+This repository contains the algorithm for the policy simulation of [Reforming the EITC to Reduce Single Parenthood and Ease Work-Family Balance](https://ifstudies.org/blog/reforming-the-eitc-to-reduce-single-parenthood-and-ease-work-family-balance)
 
 Simulations of 4 policy reforms, in [eitc_reform.ipynb](https://github.com/bodiyang/EITC-reform/blob/main/eitc_reform.ipynb) script:
 
