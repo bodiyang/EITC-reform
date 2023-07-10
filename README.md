@@ -8,6 +8,6 @@ Four policy reform simulations:
   
 2. Base EITC on individual earnings, EITC only available for TUs <$100K, eliminate EITC for single childless adults (BUT NOT FOR MARRIED CHILDLESS ADULTS)
 
-3. Base EITC on individual earnings, EITC only available for TUs <$100K, replace the married parent EITC schedules with the “super-schedule” for married couples from Winship 2021 paper
+3. Base EITC on individual earnings, EITC only available for TUs <$100K, replace the married parent EITC schedules with the “super-schedule” for married couples from [Winship 2021 paper](https://www.aei.org/wp-content/uploads/2021/07/Reforming-tax-credits-to-promote-child-opportunity-and-aid-working-families.pdf?x91208)
 
-4. Base EITC on individual earnings, EITC only available for TUs <$100K, eliminate EITC for single childless adults (BUT NOT FOR MARRIED CHILDLESS ADULTS), replace the married parent EITC schedules with the “super-schedule” for married couples from [Winship 2021 paper](https://www.aei.org/wp-content/uploads/2021/07/Reforming-tax-credits-to-promote-child-opportunity-and-aid-working-families.pdf?x91208)
+4. Base EITC on individual earnings, EITC only available for TUs <$100K, eliminate EITC for single childless adults (BUT NOT FOR MARRIED CHILDLESS ADULTS), replace the married parent EITC schedules with the “super-schedule” for married couples from Winship 2021 paper
