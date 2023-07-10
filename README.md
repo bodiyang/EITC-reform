@@ -1,8 +1,8 @@
 # EITC-reform-
 
-This repo contains the algorithm for the policy simulation of [EITC reform publication](https://ifstudies.org/blog/reforming-the-eitc-to-reduce-single-parenthood-and-ease-work-family-balance)
+This repo contains the algorithm for the policy simulation of [EITC reform publication](https://ifstudies.org/blog/reforming-the-eitc-to-reduce-single-parenthood-and-ease-work-family-balance): Reforming the EITC to Reduce Single Parenthood and Ease Work-Family Balance
 
-Four policy reform simulations:
+Simulations of 4 policy reforms:
 
 1. Base EITC on individual earnings, EITC only available for tax units with <$100,000
   
